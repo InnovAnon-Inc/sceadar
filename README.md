@@ -5,6 +5,7 @@ This project is intended to provide the feature extraction mechanisms for
 future projects, including:
 - Simon, the Drawerer, v3: a system for generating "realistic" "test" data
   (i.e., v3 will have support for generating "more releastic" data)
-- ?: a system for function parameter auto-optimization
+- FAPS (Function Auto-Parameterizing (auto-optimizing) System):
+  automatically selects the "best" parameters to a function
 
 TODO
