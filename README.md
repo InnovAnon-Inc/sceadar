@@ -7,5 +7,15 @@ future projects, including:
   (i.e., v3 will have support for generating "more releastic" data)
 - FAPS (Function Auto-Parameterizing (auto-optimizing) System):
   automatically selects the "best" parameters to a function
+- g-hOSt:
+  - "g" is the successor to "f" as in the Finux Cluster v2,
+    which featured:
+    - rambooting liveCDs using debootstrap
+    - PGO-recompiled binaries (implementing "hive adaption")
+  - this will begin as a UEFI-level shell, and hopefully evolve into a
+    micro-/exo-kernel written in a non-standard language like PECLR
+    (Parallel Environment for Optimal Lambda Calculus Reduction), or even
+    using an "efficient" LC implementation as an IR for a
+    translator/compiler/interpreter.
 
 TODO
