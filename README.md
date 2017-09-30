@@ -1,3 +1,6 @@
+# sceadar
+Statistics Routines in Python
+==========
 Pronounced "skeeter" or something like that.
 
 We will be computing various statistics on arbitrary, presumably binary data.
